@@ -1,0 +1,27 @@
+Main lessons:
+- How to write MPI in C++
+- Understanding how MPI works by every processor running the same code simultaneously
+- Thinking of smart ways to handle the alphabet in code
+
+Goal:
+The main goal of this project was to understand how to use MPI in C++.
+To compete this, there were 3 mini projects involved in the completion of this project.
+We were to assume the code would only work for any number of processors 4 to 32 for all parts.
+
+Project details:
+First, we wrote a program that sends a message to the processors in a ring.
+The first ring starts with processor 0 and sends to the next even process, and the last processor sends the message back to 0.
+The second ring starts with processor 1 and sends to the previous odd process, and the last processor sends the message back to 1.
+As an example, if the number of processes is 10, the first ring would be:
+  0 -> 2 -> 4 -> 6 -> 8 -> 10
+and the second ring would be:
+  1 -> 9 -> 7 -> 5 -> 3 -> 1
+  
+Second, we computed the maximum, minimum, and average value of an array of size one million, filled with integers.
+We were to scatter the array, have each process compute local work, then reduce to a final answer on process 0.
+For this part, we used a seed on 71911 for the random number generator.
+
+Third, we wrote a program that read in a text file of letters and counted how many of letter were present.
+Again, we were to scatter the text file as pieces, count locally, then reduce to a final answer.
+We faced a challenge with this part of the project, to write the code in such a way that only used one loop and no conditional statements in the loop. 
+I solved this challenge by implementing a method using ASCII code to count letters.
