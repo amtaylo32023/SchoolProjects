@@ -1,0 +1,2 @@
+Projects included:
+- Connect 4
