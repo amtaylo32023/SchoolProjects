@@ -1,0 +1,5 @@
+Projects included:
+- SQL
+- intro python
+- data scrubbing
+- neural network
