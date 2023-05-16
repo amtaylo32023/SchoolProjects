@@ -1,0 +1,4 @@
+Projects included:
+- Wumpus
+- Camp Posanivee
+- La Food Restaurant
