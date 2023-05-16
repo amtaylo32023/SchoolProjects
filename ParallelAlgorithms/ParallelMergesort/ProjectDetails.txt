@@ -1,0 +1,37 @@
+Main lessons:
+- Understand how to compute the multiple parts of mergesort in parallel
+- Refine C++ skills
+- Learn how to read and understand abstract pseudo code from a textbook
+- Learn how to transform pseudo code into actual working code
+- Learn how to simulate shared memory
+
+Goal:
+Use C++ to write a program that implements a 'paralle' version of the mergesort algorithm.
+Complete this project in parts/phases to be easily digestable.
+The array to sort will not have any duplicate entries.
+
+Project details:
+We were to use the following functions, which may have differed slightly in actual implementation.
+  void mergesort (int * a, int first, int last);
+  void smerge(int * a, int * b, int lasta, int lastb, int * output = NULL);
+  int rank(int * a, int first, int last, int valToFind);
+  void pmerge(int * a, int * b, int lasta, int lastb, int * output = NULL);
+The parameter a is a dynamically defined array based on user-input size.
+The first and last variables indicate hte range of the array.
+Array b will point to the second half of array a.
+The valToFind variable keeps track of which number to comput the rank for.
+The rank function returns the number of items that are less than the value valToFind.
+
+Suggested phases:
+1. Setup: Let processor 0 set up the inital array a and broadcast it to every other process.
+           Sort the first and second halves. 
+           Implement some basic restrictions on the functions to make debugging easier to begin with.
+2. Begin pmerge: Calculate SRANKA and SRANKB in parallel by striping the work of computing ranks.
+                  Share SRANKA and SRANKB among all processes.
+                  Put the sampled rank elements in the correct place in an intermediate WIN array.
+3. Shape game: Determine the shape created by the sampled rank elements in parallel.
+                  SMERGE all of the elements in each shape.
+                  SMERGE the shapes into the correct place using reduce.
+   
+   
+   
