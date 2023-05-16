@@ -1,0 +1,89 @@
+***** QUESTION 1 OUTPUT - 10 PROCESSORS *****
+
+[amtaylo3@thomas:~/Parallel] ⚡mpirun -q -np 10 blah
+Sent list ring 2: 1 9 7
+Sent list ring 2: 1 9
+Victory! Sent list ring 2: 1 9 7 5 3
+Sent list ring 2: 1 9 7 5 3
+Sent list ring 2: 1 9 7 5
+Sent list ring 1: 0 2
+Sent list ring 1: 0 2 4
+Sent list ring 1: 0 2 4 6
+Sent list ring 1: 0 2 4 6 8
+Victory! Sent list ring 1: 0 2 4 6 8
+
+***** QUESTION 1 OUTPUT - 11 PROCESSORS *****
+
+[amtaylo3@thomas:~/Parallel] ⚡mpirun -q -np 11 blah
+Sent list ring 1: 0 2 4 6
+Sent list ring 2: 1 9
+Sent list ring 1: 0 2
+Sent list ring 1: 0 2 4
+Sent list ring 2: 1 9 7 5
+Sent list ring 2: 1 9 7
+Sent list ring 1: 0 2 4 6 8
+Sent list ring 1: 0 2 4 6 8 10
+Victory! Sent list ring 1: 0 2 4 6 8 10
+Victory! Sent list ring 2: 1 9 7 5 3
+Sent list ring 2: 1 9 7 5 3
+
+***** QUESTION 2 OUTPUT - 8 PROCESSORS *****
+
+[amtaylo3@thomas:~/Parallel] ⚡mpirun -q -np 8 blah
+2 local max is 7
+4 local max is 7
+1 local max is 7
+3 local max is 7
+6 local max is 7
+7 local max is 7
+0 local max is 7
+5 local max is 7
+Maximum: 7
+5 local min is 0
+6 local min is 0
+0 local min is 0
+4 local min is 0
+2 local min is 0
+1 local min is 0
+3 local min is 0
+7 local min is 0
+Minimum: 0
+2 : 3 : 437080
+4 : 3 : 436533
+6 : 3 : 438048
+1 : 3 : 437897
+0 : 3 : 437704
+3 : 3 : 438617
+7 : 3 : 437069
+5 : 3 : 438012
+Average 3
+
+***** QUESTION 3 OUTPUT - 5 PROCESSORS *****
+
+[amtaylo3@thomas:~/Parallel] ⚡mpirun -q -np 5 blah
+a 1345
+b 336
+c 731
+d 565
+e 2070
+f 293
+g 436
+h 477
+i 1199
+j 29
+k 193
+l 854
+m 430
+n 1130
+o 1101
+p 530
+q 28
+r 1320
+s 941
+t 1241
+u 578
+v 178
+w 224
+x 49
+y 343
+z 28
