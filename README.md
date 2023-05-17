@@ -8,6 +8,7 @@ Computer science courses included:
 - Object Oriented Programming and Design
 - Database Systems
 - Algorithms
+- Computer Architecture
 - Cryptography and Cryptanalysis
 - Intro to Software Engineering
 - EPICS Service Learning
