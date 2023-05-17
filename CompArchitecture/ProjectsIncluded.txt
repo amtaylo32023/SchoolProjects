@@ -1,0 +1,7 @@
+Projects included (all are from nand2tetris):
+- boolean logic
+- boolean arithmetic
+- sequential logic
+- machine language
+- computer architecture
+- assembler
