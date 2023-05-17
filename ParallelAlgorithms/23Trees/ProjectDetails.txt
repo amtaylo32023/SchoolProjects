@@ -3,7 +3,7 @@ Main lessons:
 - Write C++ in an object-oriented fashion.
 - Learn how to write classes and a makefile.
 
-Goals:
+Goal:
 Use C++ to write a program to implement a sequential 2-3 tree.
 
 Project details:
