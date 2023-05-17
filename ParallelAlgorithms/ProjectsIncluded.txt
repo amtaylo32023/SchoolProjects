@@ -1,3 +1,5 @@
 Projects included:
-- Pmerge
-- 2-3 trees
+- Intro MPI (Project 1)
+- Sequential mergesort algorithm (Project 2)
+- Parallel mergesort algorthim (Project 3)
+- Sequential 2-3 trees (Project 4)
