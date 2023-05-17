@@ -1,0 +1,14 @@
+Main lessons:
+- Understand the basics of a 2-3 tree.
+- Write C++ in an object-oriented fashion.
+- Learn how to write classes and a makefile.
+
+Goals:
+Use C++ to write a program to implement a sequential 2-3 tree.
+
+Project details:
+Use Node and Tree classes with multiple helper functions to:
+- Print a tree in an easily readable form
+- Search a tree for a successor node
+- Insert an integer into the tree
+- Delete an integer from the tree
