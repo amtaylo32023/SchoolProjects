@@ -2,7 +2,7 @@ Main lessons:
 - Remember the inner workings of the mergesort algorithm
 - Write the mergesort algorithm sequentially to prepare for next project where it's done parallely
 
-Goals:
+Goal:
 Use C++ to write a program that implements a recursive function mergesort algorithm.
 
 Project details:
