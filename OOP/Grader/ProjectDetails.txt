@@ -1,0 +1,12 @@
+Main lessons:
+- Learn how to implement functions in Java
+- Learn how to read in text files
+
+Goal:
+Use Java to read in a text file of numerical scores and compute the average, maximum, minimum, and median of the scores.
+Additionally, convert the numerical scores into letter grades by utilizing a function.
+
+Project details:
+This project was completed in parts, where the first part focused on reading in the text file correctly and pulling the information needed correctly.
+The second part focused on computing the basic statistics of the numerical scores.
+The third and last part was focused on implmenting the function to convert the numerical scores to letter grades.
