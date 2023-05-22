@@ -1,4 +1,23 @@
 Projects included:
-- Wumpus
-- Camp Posanivee
-- La Food Restaurant
+- Number Guessing Game (Project 1)
+      The main goal of this project to learn the basics of Java.
+      To do this I was tasked to create a number guessing game that used if/else if/else blocks and a random number generator.
+- Grader (Project 2)
+      Use Java to read in a text file of numerical scores and compute the average, maximum, minimum, and median of the scores.
+      Additionally, convert the numerical scores into letter grades by utilizing a function.
+- Date Conversion (Project 3)
+      Use Java to write a program that that gave the day of the week of a date.
+      To do this, functions, interfaces, and objects were utilized, along with research of calendar characteristics (Gregorian, Julian, leap years, etc.)
+- Hunt the Wumpus (Project 4)
+      Use Java to write a program imitating the computer game 'Hunt the Wumpus' by implementing multiple functions and objects.
+- La Food Restaurant (Project 5)
+      Use Java to write a program to simulate a restaurant queueing tables.
+      To do this, a text file is read in and parsed, a party object is created, enqueued, or dequeued, and the average wait time of all parties is calculated.
+- Sorting (Project 6)
+      Use Java to write a program that compares bubble sort, insertion sort, selection sort, quick sort, and merge sort.
+      Additionally, there was a challenge to create a new sorting method that was the fastest, which I was able to complete by modifying the merge sort algorithm.
+      The results were to be printed to a Microsoft Excel table which then displayed a graph comparing the list size to the run time of each sorting algorithm.
+- Camp Posanivee (Project 7)
+      Use Java to write a program that simulates common commands at a summer camp that a receptionist might encounter.
+      To do this, a text file read in and parsed, a camper object is created, and a binary tree is created and parsed. 
+      The tree is printed, new nodes inserted, nodes deleted, and searched via preorder, inorder, or postorder.
