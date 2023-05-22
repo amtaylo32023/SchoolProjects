@@ -1,0 +1,13 @@
+Main lessons:
+- Learn about queues
+- Learn how to implement many object-oriented principles together into one program
+
+Goal:
+Use Java to write a program to simulate a restaurant queueing tables.
+To do this, a text file is read in and parsed, a party object is created, enqueued, or dequeued, and the average wait time of all parties is calculated.
+
+Project details:
+Create all of the files needed including the main, a queue interface, a queue donut object, a collection interface, and a party object.
+Fill in the interface files and build the basics of the object files and main for testing purposes.
+Build the rest of the functionality and functions into the objects and test thoroughly in the main.
+Finalize and clean the code and complete testing to fix anything that needs fixing.
