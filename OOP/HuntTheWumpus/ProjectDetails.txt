@@ -1,0 +1,11 @@
+Main lessons:
+- Learn how to manipulate objects to make a cohesive streamlined game
+- Learn the importance of clean, organized code
+
+Goal:
+Use Java to write a program imitating the computer game 'Hunt the Wumpus' by implementing multiple functions and objects.
+
+Project details:
+Complete the porject in phases to first implement basic functionality of reading in a text and parsing it to create instances of objects.
+Next, funcitons were created to bring together game components.
+Finally, the creativity and story was added to the game, along with replayability.
