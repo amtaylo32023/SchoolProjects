@@ -1,0 +1,21 @@
+Main lessons:
+- Learn what interfaces are, the strengths of utilizing interfaces, and how to implement interfaces in Java
+- Learn what objects are, the strengths of implmenting objects, how to recognize when to create objects, and how to implement them in Java
+- Learn what object-oriented programming means and how to write clean code exemplifying this key programming concept
+- Learn how to code under pressure of a tight deadline
+- Become comfortable asking for assistance from others
+
+Goal:
+Use Java to write a program that that gave the day of the week of a date.
+To do this, functions, interfaces, and objects were utilized, along with research of calendar characteristics (Gregorian, Julian, leap years, etc.)
+
+Project Details:
+This project posed a real challenge as there were many new programming concepts to implement, in addition to researching various calendar characteristics. 
+The main challenge of this project was timing and figuring out how best to break up the project into parts to meet the deadline.
+To complete this, I first set up different phases and mini-deadlines for each of these and write pseudo code for each phase to ensure all necessary components are included.
+After this, I began writing actual code and asking for assistance from the professor, attending TA office hours, and attending department tutoring hours.
+The first phase was to create the plan that served as a skeleton for the code.
+The second phase was to create all of the files needed (main, interface, and object) and fill with the pseudo code that each would need to contain.
+The third phase was to fill in the the interface file with code and set up the basics of the object file with a constructor and multiple accessors and set up the main file for testing.
+The fourth phase was to fill in the rest of the object file with functions and expand on the main file to test each function thoroughly.
+The fifth and final phase was to complete the main file, test everything thoroughly, and fix anything that was not working properly.
