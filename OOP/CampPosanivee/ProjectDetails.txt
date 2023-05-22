@@ -1,0 +1,16 @@
+Main lessons:
+- Learn how to build and manipulate binary trees in Java
+- Learn when to use trees, linked lists, or queues
+
+Goal:
+Use Java to write a program that simulates common commands at a summer camp that a receptionist might encounter.
+To do this, a text file read in and parsed, a camper object is created, and a binary tree is created and parsed. 
+The tree is printed, new nodes inserted, nodes deleted, and searched via preorder, inorder, or postorder.
+
+Project details:
+Complete the project in phases, similar to the other project.
+First creating the necessary files: main, interfaces for collection and linked lists, classes for queue and binary tree functionality, and a camper object.
+Second, filling in the interfaces and basics of the object, class, and main files.
+Third, filling in the object file and main to test the object the object functionality.
+Fourth, filling in the class files and main to test the functionality of the class files.
+Fifth, finalizing the main file to complete all of the necessary functionality.
