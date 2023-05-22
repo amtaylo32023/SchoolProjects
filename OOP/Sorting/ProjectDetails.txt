@@ -1,0 +1,16 @@
+Main lessons:
+- Learn the most common sorting algorithms
+- Learn how code can be used with other applications such as Microsoft Excel
+- Learn how to create and utilize class files in Java to separate functionality to avoid cluttered code
+- Learn to think outside of the box to create a new, faster sorting algorithm
+
+Goal:
+ Use Java to write a program that compares bubble sort, insertion sort, selection sort, quick sort, and merge sort.
+ Additionally, there was a challenge to create a new sorting method that was the fastest, which I was able to complete by modifying the merge sort algorithm.
+ The results were to be printed to a Microsoft Excel table which then displayed a graph comparing the list size to the run time of each sorting algorithm.
+
+Project details:
+This project was completed in parts, so that the main file and class file, which held the inner workings of each sorting algorithm, were first created.
+Next, the inner workings of individual sorting algorithms was added one at a time and tested thoroughly.
+Last, the results were written to an Excel file to create a graph that compared each sorting algorithm.
+I completed the challenge as well, which required a new sorting algorithm to be faster than all of the others.
