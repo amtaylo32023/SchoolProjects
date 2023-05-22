@@ -1,0 +1,12 @@
+Main lessons:
+- Learn the basics of Java
+- Learn how to begin mastering a new coding language
+- Learn how to simulate random numbers
+
+Goal:
+The main goal of this project to learn the basics of Java.
+To do this I was tasked to create a number guessing game that used if/else if/else blocks and a random number generator.
+
+Project details:
+This was a simple project meant to ease into a new language and apply basic programming principles in an effort to focus on learning syntax.
+Beacuse of this, this project utilized simple coding expressions and commands to create a fun number guessing game.
