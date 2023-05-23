@@ -1,0 +1,14 @@
+There was only one project for this class, a semester long project that applied and compared various machine learning algorithms on one dataset.
+
+Main lessons:
+- Learn basic ML principles (categories of algorithms, characteristics of data, basic data visualizations, algorithm optimization, data splitting, etc.)
+- Learn various ML algorithms including K-NN, Naive Bayes, C5.0, RIPPER, linear regression, neural network, support vector machine, apriori market basket analysis, and k-means clustering
+- Learn R and RStudio
+
+Goals:
+Use R to implement ML algorithms on a chosen dataset and compare the performance of each, along with algorithm optimization methods performed.
+
+Project details:
+Follow given examples and apply to chosen dataset in RStudio.
+Interpret results and rerun algorithm towards optimization.
+Write a report telling of final results and comparing the performance of each algorithm on the chosen dataset.
