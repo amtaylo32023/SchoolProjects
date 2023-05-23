@@ -1,0 +1,25 @@
+There was only one project for this class, a group based workflow management project. I served as a team member, focusing on UI development.
+
+Main lessons:
+- Learn the basics of full stack development
+- Learn agile software development and the methodology of Scrum
+- Learn to code in a group setting
+- Learn to organize object-oriented code in 3 tier layered architecture
+- Learn to use common IT tools such as GitHub, Visio, Trello, and Visual Studio
+- Learn to draw UML diagrams
+- Learn how to use .NET and C# to build a web application
+
+Goal:
+Create a workflow management system for a business of our choice that starts from gathering of materials, to manufaturing, to quality assessment, to delivery.
+The system must be designed to manage incoming and outgoing products from multiple departments and generating reports.
+
+Project details:
+Complement all necessary functionality in two week sprints, where each day of class there is a team standup meeting and the last day of the sprint there are team presentations showcasing functioning code and next steps.
+Each functionality step had a given input, output, normal flow, and alternate flow.
+The necessary functionality is as follows:
+    - Registration that provides a unique login ID for all users, dependent on the type of user; we were to consider use case diagrams for each user type and corresponding functionality
+    - Stock management where there is an ID for each item in a database to manage inflow and outflow of stock
+    - Product management where there is an ID for each product manufactured in a database
+    - Quality assessment to test the quality of the manufactured products
+    - Delivery for sending product
+    - Report generation for product status
