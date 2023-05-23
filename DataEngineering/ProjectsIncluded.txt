@@ -1,5 +1,15 @@
 Projects included:
-- SQL
-- intro python
-- data scrubbing
-- neural network
+- Intro Python (Project 1)
+      Use Python to write a program that implements functions to read in a text file and manipulate strings.
+      Necessary functionality:
+          Determine if a word is a palindrome or case-insensitive palindrome
+          Calculate the average length of all words in a file
+          Create a dictionary with the frequency of each word in a file
+- Web scraping (Project 2)
+      Use Python to write a program that reads html files of popular baby names from multiple years to determine name popularity using regex and dictionaries.
+- Web scraping and data cleaning (Project 3)
+      Use Python to write a program that read html files and found URL links via regex and clean the data appropriately.
+- SQLite intro (Project 4)
+      Use SQL to write queries on a pre-made database that includes views, joins, and functions.
+- Neural Network (Project 5)
+      Use Python to write a program that cleans durvey data then create a single perceptron neural network.
