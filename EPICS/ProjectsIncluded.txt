@@ -1,2 +1,0 @@
-Projects included:
-- semester long game development

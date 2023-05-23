@@ -1,0 +1,14 @@
+There was only one semester long project for this class which consisted of working with a local company to meet a technical requirement they had for us.
+I served as both the Scrum Master and a developer for this project, due to only being a team of five.
+
+Main lessons:
+- Learn to communicate with someone in a different discipline to translate non-technical desires and requests to technical tasks
+- Learn how to use Unity to create a video game
+- Learn to collaborate as a team and work through team discourse.
+
+Goal:
+Use Unity to build a mobile app for a local company meeting their requirements.
+
+Project details:
+Build a story that includes relatable NPCs suitable for young adult individuals with autism.
+Build game visuals to assist players with learning facial expressions and social cues to lead players to choosing most appropriate dialogue response.
