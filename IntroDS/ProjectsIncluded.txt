@@ -1,2 +1,8 @@
 Projects included:
-- 
+- Intro RStudio
+      The main goal of this project was to learn the basics of R and RStudio.
+      To do this, I worked in a group to solve three parts utilizing concepts of:
+        Rmarkdown, vectors, functions, zscores, histograms, ggplot, and linear regression.
+- Visualization and Interpretation of Data
+      The main goal of this project was to utilize common ML techniques in RStudio and interpret the results on clean data.
+      Logistic Regression, Linear Discriminant Analysis, and Naive Bayes were compared.
