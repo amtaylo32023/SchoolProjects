@@ -1,0 +1,18 @@
+Main lessons:
+- Learn how to use RStudio
+- Learn the basics of R
+- Learn how to utilize RMarkdown files
+
+Goal:
+The main goal of this project was to learn the basics of R and RStudio.
+To do this, I worked in a group to solve three parts utilizing concepts of:
+  RMarkdown, vectors, functions, zscores, histograms, ggplot, and linear regression.
+
+Project Details:
+This project was to be completed in a group. It served as a challenge to many, because it was the first time most had seen R or RStudio.
+I had used RStudio previously, but not quite in the same way that this project wanted us to use it.
+My portion of the project consisted of utilizing vectors and functions to compute the temperature conversion between Celsius and Fahrenheit.
+Second, use a random number generator to create both a uniform random distribution and a random normal distribution of numbers, convert them to z-scores, and display both as histograms.
+The next part of the project consisted of using ggplot to create presentable visuals with histogram, density plot, bar graph, stacked bar graph, box and whisker plot, and scatter plot.
+Lastly, a linear regression model was created for a given dataset and various aspects were analyzed (added variable plots, residuals v. fitted, normal Q-Q, RSE, etc.).
+For the second and third parts of the project, I assisted where needed and helped proofread the HTML file prior to final submission. 
