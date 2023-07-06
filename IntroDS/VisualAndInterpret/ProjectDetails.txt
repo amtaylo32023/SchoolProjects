@@ -1,0 +1,18 @@
+Main lessons:
+- Understand common machine learning (ML) algorithms
+- Apply those ML algorithms in RStudio
+- Compare algorithms on one dataset
+- Understand basic interpretation techniques for both clean data and model
+
+Goal:
+The main goal of this project was to utilize common ML techniques in RStudio and interpret the results on clean data.
+Logistic Regression, Linear Discriminant Analysis (LDA), and Naive Bayes were compared.
+
+Project Details:
+This project was to be completed in a group.
+Key visualizations were made on the dataset prior to building the model in an effort to better understand the data and common themes/behaviors in it.
+These visualizations included summary, density plots of variables, and creating factors and normalizing the numeric variables where needed to better see the data.
+We performed a 60/40 test/train split on the data to build the models.
+Logistic Regression, LDA, and Naive Bayes algorithms were run on the data, with the model predicitons being projected on the test data, and confusion matrices calculated for each.
+An ROC curve was created for each model as well.
+The AUC value and confusion matrices were used in the final analysis to compare each model.
